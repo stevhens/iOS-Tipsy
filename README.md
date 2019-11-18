@@ -17,4 +17,4 @@ Tipsy app is an app that will calculate split bill based on bill total, tip, and
 
 ## Demo
 
-![Tipsy-Demo](Documentation/tipsy-doc.gif)
+![Tipsy-Demo](Documentation/iOS-Tipsy.gif)
