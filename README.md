@@ -1,5 +1,7 @@
 #  Tipsy
 
+![Tipsy-Logo](Documentation/iOS-Tipsy.png)
+
 ## Outline
 
 This app makes me learn more about Optionals, solidify my understanding of the MVC architectural pattern and to introduce the concept of Classes.
